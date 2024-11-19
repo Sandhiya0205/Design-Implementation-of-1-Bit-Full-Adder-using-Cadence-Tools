@@ -8,6 +8,9 @@ Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
+
+![Screenshot (129)](https://github.com/Sandhiya0205/Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools/blob/main/wha5.jpeg)
+
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
